@@ -1,5 +1,14 @@
+- [Upcoming](#upcoming)
+- [forcasting websites](#forcasting-websites)
+  - [Using barchart](#using-barchart)
+    - [**candle sticks**](#candle-sticks)
+    - [**moving averages**](#moving-averages)
+    - [__Ichimoku cloud__](#ichimoku-cloud)
+    - [__Fibonaci Retracements__](#fibonaci-retracements)
+- [other facts](#other-facts)
+
 ## Upcoming
-- google docs step by step on how to sell /buy options
+- *step by step on how to sell /buy options*
 
 ## forcasting websites 
   - barchart
